@@ -2,7 +2,7 @@
 
 The physical files should be kept in sync with the Xcode project files in order to avoid file sprawl. Any Xcode groups created should be reflected by folders in the filesystem. Code should be grouped by type and feature for greater clarity.
 
-Make sure to use an [app-template](https://github.com/bakkenbaeck/app-template) for consistency.
+Make sure to use an [app-template](https://github.com/3lvis/app-template) for consistency.
 
 ```
 Project

@@ -97,7 +97,7 @@ You **should not** add prefixes to your Swift types.
 
 * Indent using 4 spaces rather than tabs. This should be configured on the project.
 
-  ![Xcode indent settings](https://raw.githubusercontent.com/bakkenbaeck/iOS-playbook/master/assets/xcode-text-settings-swift.png)
+  ![Xcode indent settings](https://raw.githubusercontent.com/3lvis/iOS-playbook/master/assets/xcode-text-settings-swift.png)
 
 * Avoid doing method indentation since Swift's indentation is inconsistent, and just keep things in one line as long as is possible. It helps you to not having to think many times on how you would indent your code.
 
